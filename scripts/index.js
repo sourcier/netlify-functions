@@ -1,0 +1,1 @@
+const messageNode = document.elementById("message")
